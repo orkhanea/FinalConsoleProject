@@ -1,0 +1,13 @@
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.csproj.AssemblyReference.cache
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.AssemblyInfoInputs.cache
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.AssemblyInfo.cs
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.csproj.CoreCompileInputs.cache
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/bin/Debug/netcoreapp3.1/FinalConsoleProject.deps.json
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/bin/Debug/netcoreapp3.1/FinalConsoleProject.runtimeconfig.json
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/bin/Debug/netcoreapp3.1/FinalConsoleProject.runtimeconfig.dev.json
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/bin/Debug/netcoreapp3.1/FinalConsoleProject.dll
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/bin/Debug/netcoreapp3.1/FinalConsoleProject.pdb
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.dll
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.pdb
+/Users/orkhan/Projects/FinalConsoleProject/FinalConsoleProject/obj/Debug/netcoreapp3.1/FinalConsoleProject.genruntimeconfig.cache
